@@ -1,8 +1,8 @@
 PowerBASIC project
 PBCC
 2
-SaveFile000="/A:/W:0,0,0,0:D:\Data\Source Code\PowerBASIC\CC\Fern\Fern.bas"
-SaveFile001="/W:0,0,21,62:D:\Data\Source Code\PowerBASIC\CC\Fern\Version_Info.inc"
+SaveFile000="/A:/W:0,0,0,0:Fern.bas"
+SaveFile001="/W:0,0,21,62:Version_Info.inc"
 Include0="C:\Program Files (x86)\PBCC60\WinAPI"
 Include1=
 Include2=
